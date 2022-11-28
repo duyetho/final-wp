@@ -1,0 +1,2 @@
+2022-11-24T04:01:37+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 20480 bytes) in C:\xampp\htdocs\household_appliances\wp-content\plugins\elementskit-lite\widgets\accordion\accordion.php on line 795
+
